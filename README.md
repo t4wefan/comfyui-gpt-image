@@ -7,7 +7,8 @@ Since Comfyui make the GPT image node as a paid feature, this repo can help you 
 1. cd and clone the repo to Comfyui's `custom_nodes` folder.
 
    ```bash
-   git clone ...
+   cd /your/path/to/Comfyui/custom_nodes
+   git clone https://github.com/t4wefan/comfyui-gpt-image
    ```
 
 2. launch Comfyui as usual.
