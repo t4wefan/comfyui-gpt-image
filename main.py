@@ -35,7 +35,7 @@ class GPT1ImageNodeSyncOpenAILib(ComfyNodeABC):  # Renamed class for clarity
 
     @classmethod
     def INPUT_TYPES(cls) -> InputTypeDict:  # type: ignore
-        image_sizes = ["1024x1024", "1792x1024", "1024x1792"]
+        image_sizes = ["1024x1024", "1536x1024", "1024x1536","auto"]
         return {
             "required": {
                 "prompt": (IO.STRING, {
