@@ -18,3 +18,5 @@ Since Comfyui make the GPT image node as a paid feature, this repo can help you 
 ## How to Use
 
 Load `example.json` in the repo in Comfyui, fill in the key and base url and generate.
+
+![screenshot](images/6ffafe399d5791151c8f0d1790391345.png)
